@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictyscretensis01dresgoog_0005.png"; bbox 0 0 3173 4957; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 736 1831 2246 1925">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 736 1831 2246 1925">
+     <span class='ocr_line' id='line_1_1' title="bbox 736 1831 2246 1925; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 736 1832 1291 1925; x_wconf 76' lang='lat' dir='ltr'>DICTYS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1406 1831 2246 1923; x_wconf 81' lang='lat' dir='ltr'><strong>CRETENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 879 2270 2129 2367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 879 2270 2129 2367">
+     <span class='ocr_line' id='line_1_2' title="bbox 879 2270 2129 2367; baseline 0.005 -6"><span class='ocrx_word' id='word_1_3' title='bbox 879 2272 1332 2365; x_wconf 85' lang='lat' dir='ltr'><strong>DARES</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1424 2270 2129 2367; x_wconf 83' lang='lat' dir='ltr'>PHRYGIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 691 2536 2325 2616">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 691 2536 2325 2616">
+     <span class='ocr_line' id='line_1_3' title="bbox 691 2536 2325 2616; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 691 2537 880 2614; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 987 2536 1479 2612; x_wconf 85' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1582 2537 2325 2616; x_wconf 84' lang='lat' dir='ltr'><strong>TROJANO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1311 2923 1687 3006">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1311 2923 1687 3006">
+     <span class='ocr_line' id='line_1_4' title="bbox 1311 2923 1687 3006; baseline 0.008 -4"><span class='ocrx_word' id='word_1_8' title='bbox 1311 2923 1535 3005; x_wconf 68' lang='lat' dir='ltr'>von.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1585 2940 1687 3006; x_wconf 90' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 518 4375 1697 4444">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 518 4375 1697 4444">
+     <span class='ocr_line' id='line_1_5' title="bbox 518 4375 1697 4444; baseline 0.003 -18"><span class='ocrx_word' id='word_1_10' title='bbox 518 4375 696 4440; x_wconf 71' lang='lat' dir='ltr'><strong><em>Delph.</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 718 4383 764 4426; x_wconf 71' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 794 4375 907 4428; x_wconf 58' lang='grc' dir='ltr'><strong>νιν.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 929 4379 1064 4430; x_wconf 66' lang='lat' dir='ltr'><strong>Ciu.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1287 4377 1427 4429; x_wconf 73' lang='lat' dir='ltr'><strong><em>Dice.</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1456 4379 1593 4430; x_wconf 68' lang='lat' dir='ltr'><strong><em>Cret.</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1614 4385 1697 4444; x_wconf 58' lang='grc' dir='ltr'><strong>ξε.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
